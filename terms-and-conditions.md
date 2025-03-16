@@ -1,6 +1,6 @@
 Terms and Conditions for My Lifestyle Challenge
 
-Effective Date: March 2025
+Effective Date: 3/1/2025
 
 Welcome to My Lifestyle Challenge, accessible at https://mylifestylechallenge.app. These Terms and Conditions govern your use of our website/application, services, and features. By accessing or using our website/mobile application, you agree to comply with and be bound by these Terms and Conditions. If you do not agree with any part of these terms, please do not use our services.
 
@@ -43,10 +43,10 @@ You agree to indemnify, defend, and hold harmless My Lifestyle Challenge, its af
 We reserve the right to modify these Terms and Conditions at any time. We will notify you of any changes by posting the new Terms and Conditions on the website/Mobile Application . Your continued use of the website/Mobile Application after any such changes constitutes your acceptance of the new Terms and Conditions.
 
 **12\. Governing Law**  
-These Terms and Conditions shall be governed by and construed in accordance with the laws of \[Insert Jurisdiction\], without regard to its conflict of law principles.
+These Terms and Conditions shall be governed by and construed in accordance with the laws of United States, without regard to its conflict of law principles.
 
 **13\. Contact Information**  
-If you have any questions about these Terms and Conditions, please contact us at \[Insert Contact Information\].
+If you have any questions about these Terms and Conditions, please contact us at [contact@mylifestylechallenge.app](mailto:contact@mylifestylechallenge.app). 
 
 By using our website/Mobile Application , you acknowledge that you have read and understood these Terms and Conditions and agree to be bound by them. Thank you for being a part of My Lifestyle Challenge.
 
