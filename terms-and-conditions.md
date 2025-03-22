@@ -27,7 +27,7 @@ You agree not to engage in any of the following prohibited activities:
 a.Violating any applicable laws or regulations.  
 b.Impersonating any person or entity or falsely stating or misrepresenting your affiliation with a person or entity.c.Interfering with or disrupting the website/Mobile Application servers or networks connected to the website/Mobile Application.d.Using automated systems, bots, or scrapers to access the website/Mobile Application For any purpose.
 
-7\. Intellectual Property  
+**7\. Intellectual Property**  
 All content on the website, including text, graphics, logos, and software, is the property of My Lifestyle Challenge or its content suppliers and is protected by applicable copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, or create derivative works from any content without our express written permission.
 
 **8\. Disclaimers**  
@@ -36,17 +36,22 @@ The website/Mobile Application and its services are provided on an "as-is" basis
 **9\. Limitation of Liability**  
 In no event shall My Lifestyle Challenge, its affiliates, or its licensors be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use of the website. All information regarding nutrition or lifestyle habits requirements and suggestions are for entertainment use only and are not meant to replace the advice of your primary care physician. Please seek the consultation of your primary care physician before making and alterations to your lifestyle or nutrition habits. 
 
-**10\. Indemnification**  
-You agree to indemnify, defend, and hold harmless My Lifestyle Challenge, its affiliates, and their respective officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses arising out of your use of the website or violation of these Terms and Conditions.
+**10\. Prohibited Use**  
+Users agree not to use mylifestylechallenge.app to facilitate, engage in, or promote any form of gambling, wagering, or contests with monetary or material prizes. The platform is intended for personal lifestyle tracking, habit-building, and wellness challenges. Any violation of this provision is grounds for immediate account termination.
 
-**11\. Changes to Terms**  
+**11\.  User Responsibility**  
+Users acknowledge and agree that they are solely responsible for how they interact with mylifestylechallenge.app. Any use of the platform that violates local, state, or federal laws is strictly prohibited. mylifestylechallenge.app assumes no liability for user-generated content or the misuse of platform features.
+
+**12\.  Indemnification**  
+Users agree to indemnify, defend, and hold harmless mylifestylechallenge.app, its affiliates, officers, employees, agents, and third-party service providers (including Stripe, Apple, or Google Play) from any claims, liabilities, damages, losses, or expenses arising out of their misuse of the platform, violation of the Terms, or engagement in prohibited activities.
+
+**13\. Changes to Terms**  
 We reserve the right to modify these Terms and Conditions at any time. We will notify you of any changes by posting the new Terms and Conditions on the website/Mobile Application . Your continued use of the website/Mobile Application after any such changes constitutes your acceptance of the new Terms and Conditions.
 
-**12\. Governing Law**  
+**14\. Governing Law**  
 These Terms and Conditions shall be governed by and construed in accordance with the laws of United States, without regard to its conflict of law principles.
 
-**13\. Contact Information**  
+**15\. Contact Information**  
 If you have any questions about these Terms and Conditions, please contact us at [contact@mylifestylechallenge.app](mailto:contact@mylifestylechallenge.app). 
 
 By using our website/Mobile Application , you acknowledge that you have read and understood these Terms and Conditions and agree to be bound by them. Thank you for being a part of My Lifestyle Challenge.
-
