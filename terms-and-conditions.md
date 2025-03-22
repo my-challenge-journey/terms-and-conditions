@@ -1,6 +1,6 @@
-Terms and Conditions for My Lifestyle Challenge
+## Terms and Conditions for My Lifestyle Challenge
 
-Effective Date: 3/1/2025
+**Effective Date: 3/1/2025**
 
 Welcome to My Lifestyle Challenge, accessible at https://mylifestylechallenge.app. These Terms and Conditions govern your use of our website/application, services, and features. By accessing or using our website/mobile application, you agree to comply with and be bound by these Terms and Conditions. If you do not agree with any part of these terms, please do not use our services.
 
