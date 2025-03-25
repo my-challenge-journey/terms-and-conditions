@@ -51,7 +51,32 @@ We reserve the right to modify these Terms and Conditions at any time. We will n
 **14\. Governing Law**  
 These Terms and Conditions shall be governed by and construed in accordance with the laws of United States, without regard to its conflict of law principles.
 
-**15\. Contact Information**  
+### **15\. Cancellation & Refund Policy for premium services**
+
+**1\. Subscription Billing & Renewal**  
+ Your subscription to My Lifestyle Challenge premium access is billed at **$4.99 per month (before application of any associated promotional codes)**  and is initiated on the date of purchase. Subscriptions automatically renew **on the same date each month** until canceled.
+
+**2\. Cancellation Policy**
+
+* Users may cancel their subscription **at any time** through their account settings.
+
+* When a user cancels, their **premium benefits remain active until the end of the current billing cycle**.
+
+* At the end of the billing cycle, the subscription will not renew, and the user will no longer have access to premium features.
+
+**Example:** If a user’s subscription renews on the **15th of each month** and they cancel on the **18th**, they will retain access to premium features **until the 15th of the following month**, at which point their subscription will end and billing will cease.
+
+**3\. Refund Policy**
+
+* Payments for subscriptions are **non-refundable**, and no prorated refunds or credits will be issued for **partial months of service**.
+
+* Users are **not eligible for refunds on invoices paid more than 30 days in the past**.
+
+* If a billing error occurs or an unauthorized charge is suspected, users must contact contact@mylifestylechallenge.app within **30 days** of the charge to request a review.
+
+By subscribing to our premium services, you acknowledge and agree to this **Cancellation & Refund Policy**. If you have any questions, please contact contact@mylifestylechallenge.app before subscribing.
+
+**16\. Contact Information**  
 If you have any questions about these Terms and Conditions, please contact us at [contact@mylifestylechallenge.app](mailto:contact@mylifestylechallenge.app). 
 
 By using our website/Mobile Application , you acknowledge that you have read and understood these Terms and Conditions and agree to be bound by them. Thank you for being a part of My Lifestyle Challenge.
