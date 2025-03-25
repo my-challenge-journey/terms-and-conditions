@@ -12,11 +12,11 @@ a. Personal Information
 
 When you create an account, subscribe to premium features, or contact support, we may collect:
 
-	•	Name
+- Name
 
-	•	Email address
+- Email address
 
-	•	Payment information (processed securely via Stripe, we do not store this information)
+- Payment information (processed securely via Stripe, we do not store this information)
 
 b. Usage Data
 
