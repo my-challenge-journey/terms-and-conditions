@@ -22,11 +22,11 @@ b. Usage Data
 
 When you use the App, we may collect:
 
-	•	Device information (e.g., operating system, model)
+- Device information (e.g., operating system, model)
 
-	•	Log data (e.g., IP address, timestamps)
+- Log data (e.g., IP address, timestamps)
 
-	•	App usage statistics (e.g., features accessed, time spent in the App)
+- App usage statistics (e.g., features accessed, time spent in the App)
 
 c. Lifestyle Journal Data
 
@@ -36,25 +36,25 @@ The core functionality of My Lifestyle Challenge includes tracking lifestyle hab
 
 We use the information we collect to:
 
-	•	Provide and improve the App’s functionality
+- Provide and improve the App’s functionality
 
-	•	Offer customer support and respond to inquiries
+- Offer customer support and respond to inquiries
 
-	•	Personalize user experience and offer insights
+- Personalize user experience and offer insights
 
-	•	Process payments and manage subscriptions
+- Process payments and manage subscriptions
 
-	•	Enforce our Terms of Service and prevent fraud
+- Enforce our Terms of Service and prevent fraud
 
 3\. How We Share Your Information
 
 We do not sell or rent your data. However, we may share information in the following cases:
 
-	•	Service Providers: We use third-party services (e.g., Stripe for payments, analytics providers) to operate and improve the App.
+- Service Providers: We use third-party services (e.g., Stripe for payments, analytics providers) to operate and improve the App.
 
-	•	Legal Compliance: If required by law or to protect our rights, we may disclose user data.
+- Legal Compliance: If required by law or to protect our rights, we may disclose user data.
 
-	•	Business Transfers: If we merge, acquire, or sell assets, user data may be part of the transfer.
+- Business Transfers: If we merge, acquire, or sell assets, user data may be part of the transfer.
 
 4\. Data Security
 
@@ -62,11 +62,11 @@ We take appropriate security measures to protect your data from unauthorized acc
 
 5\. Your Rights & Choices
 
-	•	Access & Updates: You can review and update your account information in the App.
+- Access & Updates: You can review and update your account information in the App.
 
-	•	Data Deletion: You may request account deletion by contacting us at \[insert email\].
+- Data Deletion: You may request account deletion by contacting us at \[insert email\].
 
-	•	Opt-Out: You can opt out of marketing communications via your account settings or unsubscribe links.
+- Opt-Out: You can opt out of marketing communications via your account settings or unsubscribe links.
 
 6\. Third-Party Links & Services
 
