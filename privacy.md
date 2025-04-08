@@ -2,7 +2,7 @@
 
 **Effective Date: 3/25/25**
 
-My Lifestyle Challenge (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (“App”). By using the App, you agree to the collection and use of information in accordance with this policy.
+My Life Grade (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (“App”). By using the App, you agree to the collection and use of information in accordance with this policy.
 
 1\. Information We Collect
 
@@ -30,7 +30,7 @@ When you use the App, we may collect:
 
 c. Lifestyle Journal Data
 
-The core functionality of My Lifestyle Challenge includes tracking lifestyle habits. Any journal entries, challenge progress, and related data you input are stored securely and only accessible by you unless you choose to share them.
+The core functionality of Life Grade includes tracking lifestyle habits. Any journal entries, challenge progress, and related data you input are stored securely and only accessible by you unless you choose to share them.
 
 2\. How We Use Your Information
 
@@ -64,7 +64,7 @@ We take appropriate security measures to protect your data from unauthorized acc
 
 - Access & Updates: You can review and update your account information in the App.
 
-- Data Deletion: You may request account deletion by contacting us at \[insert email\].
+- Data Deletion: You may request account deletion by contacting us at LifeGrade.APP@gmail.com
 
 - Opt-Out: You can opt out of marketing communications via your account settings or unsubscribe links.
 
@@ -84,9 +84,8 @@ We may update this Privacy Policy from time to time. We will notify users of sig
 
 If you have any questions about this Privacy Policy, you can contact us at:
 
-Mylifestyle Challenge 
+Life Grade
+LifeGrade.App@gmail.com
 
-Contact@mylifestylechallenge.com
-
-https://mylifestylechallenge.app
+https://LifeGrade.app
 
