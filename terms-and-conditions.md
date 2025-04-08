@@ -1,8 +1,8 @@
-## Terms and Conditions for My Lifestyle Challenge
+## Terms and Conditions for Life Grade
 
-**Effective Date: 3/1/2025**
+**Effective Date: 3/25/2025**
 
-Welcome to My Lifestyle Challenge, accessible at https://mylifestylechallenge.app. These Terms and Conditions govern your use of our website/application, services, and features. By accessing or using our website/mobile application, you agree to comply with and be bound by these Terms and Conditions. If you do not agree with any part of these terms, please do not use our services.
+Welcome to My Life Grade, accessible at https://lifegrade.app. These Terms and Conditions govern your use of our website/application, services, and features. By accessing or using our website/mobile application, you agree to comply with and be bound by these Terms and Conditions. If you do not agree with any part of these terms, please do not use our services.
 
 **1\. Acceptance of Terms**  
 By creating an account or using our website/Mobile Application, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions and our Privacy Policy.
@@ -28,22 +28,22 @@ a.Violating any applicable laws or regulations.
 b.Impersonating any person or entity or falsely stating or misrepresenting your affiliation with a person or entity.c.Interfering with or disrupting the website/Mobile Application servers or networks connected to the website/Mobile Application.d.Using automated systems, bots, or scrapers to access the website/Mobile Application For any purpose.
 
 **7\. Intellectual Property**  
-All content on the website, including text, graphics, logos, and software, is the property of My Lifestyle Challenge or its content suppliers and is protected by applicable copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, or create derivative works from any content without our express written permission.
+All content on the website, including text, graphics, logos, and software, is the property of Life Grade or its content suppliers and is protected by applicable copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, or create derivative works from any content without our express written permission.
 
 **8\. Disclaimers**  
 The website/Mobile Application and its services are provided on an "as-is" basis without warranties of any kind, either express or implied. We do not guarantee that the website/Mobile Application Will be uninterrupted or error-free. You assume all risks associated with your use of the website/Mobile Application And its services.
 
 **9\. Limitation of Liability**  
-In no event shall My Lifestyle Challenge, its affiliates, or its licensors be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use of the website. All information regarding nutrition or lifestyle habits requirements and suggestions are for entertainment use only and are not meant to replace the advice of your primary care physician. Please seek the consultation of your primary care physician before making and alterations to your lifestyle or nutrition habits. 
+In no event shall Life Grade, its affiliates, or its licensors be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use of the website. All information regarding nutrition or lifestyle habits requirements and suggestions are for entertainment use only and are not meant to replace the advice of your primary care physician. Please seek the consultation of your primary care physician before making and alterations to your lifestyle or nutrition habits. 
 
 **10\. Prohibited Use**  
-Users agree not to use mylifestylechallenge.app to facilitate, engage in, or promote any form of gambling, wagering, or contests with monetary or material prizes. The platform is intended for personal lifestyle tracking, habit-building, and wellness challenges. Any violation of this provision is grounds for immediate account termination.
+Users agree not to use lifegrade.app to facilitate, engage in, or promote any form of gambling, wagering, or contests with monetary or material prizes. The platform is intended for personal lifestyle tracking, habit-building, and wellness challenges. Any violation of this provision is grounds for immediate account termination.
 
 **11\.  User Responsibility**  
 Users acknowledge and agree that they are solely responsible for how they interact with mylifestylechallenge.app. Any use of the platform that violates local, state, or federal laws is strictly prohibited. mylifestylechallenge.app assumes no liability for user-generated content or the misuse of platform features.
 
 **12\.  Indemnification**  
-Users agree to indemnify, defend, and hold harmless mylifestylechallenge.app, its affiliates, officers, employees, agents, and third-party service providers (including Stripe, Apple, or Google Play) from any claims, liabilities, damages, losses, or expenses arising out of their misuse of the platform, violation of the Terms, or engagement in prohibited activities.
+Users agree to indemnify, defend, and hold harmless lifegrade.app, its affiliates, officers, employees, agents, and third-party service providers (including Stripe, Apple, or Google Play) from any claims, liabilities, damages, losses, or expenses arising out of their misuse of the platform, violation of the Terms, or engagement in prohibited activities.
 
 **13\. Changes to Terms**  
 We reserve the right to modify these Terms and Conditions at any time. We will notify you of any changes by posting the new Terms and Conditions on the website/Mobile Application . Your continued use of the website/Mobile Application after any such changes constitutes your acceptance of the new Terms and Conditions.
@@ -74,7 +74,7 @@ These Terms and Conditions shall be governed by and construed in accordance with
 
 * If a billing error occurs or an unauthorized charge is suspected, users must contact contact@mylifestylechallenge.app within **30 days** of the charge to request a review.
 
-By subscribing to our premium services, you acknowledge and agree to this **Cancellation & Refund Policy**. If you have any questions, please contact contact@mylifestylechallenge.app before subscribing.
+By subscribing to our premium services, you acknowledge and agree to this **Cancellation & Refund Policy**. If you have any questions, please contact lifegrade.app@gmail.com before subscribing.
 
 **16\. Contact Information**  
 If you have any questions about these Terms and Conditions, please contact us at [contact@mylifestylechallenge.app](mailto:contact@mylifestylechallenge.app). 
