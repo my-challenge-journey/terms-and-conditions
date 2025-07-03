@@ -1,91 +1,142 @@
-## Privacy Policy
+# Terms and Conditions – LifeGrade
 
-**Effective Date: 3/25/25**
+**Effective Date: March 30, 2025**
 
-My Life Grade (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (“App”). By using the App, you agree to the collection and use of information in accordance with this policy.
+Welcome to LifeGrade, accessible at [https://LifeGrade.app](https://LifeGrade.app).  
+These Terms and Conditions govern your use of our website, mobile application, services, and features. By accessing or using any part of LifeGrade, you agree to comply with and be bound by these Terms. If you do not agree, do not use the service.
 
-1\. Information We Collect
+---
 
-We may collect the following types of information:
+## 1. Acceptance of Terms
 
-a. Personal Information
+By creating an account or using LifeGrade, you acknowledge that you have read, understood, and agree to these Terms and our [Privacy Policy](https://LifeGrade.app/privacy).
 
-When you create an account, subscribe to premium features, or contact support, we may collect:
+---
 
-- Name
+## 2. User Accounts
 
-- Email address
+- a. You must create an account to access certain features. You agree to provide accurate, current, and complete information.
+- b. You are solely responsible for any content you submit, including journal entries and challenge submissions (“User Content”).
+- c. By submitting content, you grant LifeGrade a non-exclusive, worldwide, royalty-free license to use and distribute it in connection with the service.
 
-- Payment information (processed securely via Stripe, we do not store this information)
+---
 
-b. Usage Data
+## 3. Fitness Journaling
 
-When you use the App, we may collect:
+Users may submit fitness journals and receive scores or grades based on responses. You are solely responsible for the accuracy of your entries.
 
-- Device information (e.g., operating system, model)
+---
 
-- Log data (e.g., IP address, timestamps)
+## 4. Challenges
 
-- App usage statistics (e.g., features accessed, time spent in the App)
+- a. Users may create and join challenges.
+- b. We reserve the right to remove inappropriate content or users violating these Terms.
 
-c. Lifestyle Journal Data
+---
 
-The core functionality of Life Grade includes tracking lifestyle habits. Any journal entries, challenge progress, and related data you input are stored securely and only accessible by you unless you choose to share them.
+## 5. Payment & Subscriptions
 
-2\. How We Use Your Information
+Access to certain features may require a one-time payment or recurring subscription.  
+By submitting payment, you confirm that you are authorized to use the selected payment method.  
+All fees are **non-refundable** unless explicitly stated otherwise.
 
-We use the information we collect to:
+---
 
-- Provide and improve the App’s functionality
+## 6. Prohibited Conduct
 
-- Offer customer support and respond to inquiries
+You agree not to:
+- a. Violate any applicable law  
+- b. Impersonate others or misrepresent your affiliation  
+- c. Interfere with LifeGrade servers or infrastructure  
+- d. Use bots, scrapers, or automation tools to access LifeGrade  
 
-- Personalize user experience and offer insights
+---
 
-- Process payments and manage subscriptions
+## 7. Intellectual Property
 
-- Enforce our Terms of Service and prevent fraud
+All LifeGrade content (text, graphics, logos, software) is owned by LifeGrade or its partners and protected under copyright and trademark law.  
+You may not reproduce, distribute, or modify any content without explicit written permission.
 
-3\. How We Share Your Information
+---
 
-We do not sell or rent your data. However, we may share information in the following cases:
+## 8. General Disclaimer
 
-- Service Providers: We use third-party services (e.g., Stripe for payments, analytics providers) to operate and improve the App.
+LifeGrade and its services are provided **“as-is,”** without warranties of any kind.  
+We do not guarantee uninterrupted access, error-free operation, or specific outcomes from using the service.
 
-- Legal Compliance: If required by law or to protect our rights, we may disclose user data.
+---
 
-- Business Transfers: If we merge, acquire, or sell assets, user data may be part of the transfer.
+### 8.1 Medical Disclaimer
 
-4\. Data Security
+The information provided in the LifeGrade app, website, and related content is intended for general informational and entertainment purposes only.  
+It does not constitute medical advice, and LifeGrade is not a licensed healthcare provider.  
+Users should consult a qualified physician or healthcare professional before making changes to diet, exercise, supplementation, or lifestyle.  
+By using this app, you acknowledge that any decisions made using LifeGrade are at your own risk.
 
-We take appropriate security measures to protect your data from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet is 100% secure, and we cannot guarantee absolute security.
+---
 
-5\. Your Rights & Choices
+## 9. Limitation of Liability
 
-- Access & Updates: You can review and update your account information in the App.
+LifeGrade and its affiliates shall not be liable for any indirect, incidental, or consequential damages.  
+All lifestyle, health, and nutrition content is provided for entertainment purposes only.
 
-- Data Deletion: You may request account deletion by contacting us at LifeGrade.APP@gmail.com
+---
 
-- Opt-Out: You can opt out of marketing communications via your account settings or unsubscribe links.
+## 10. Gambling Disclaimer
 
-6\. Third-Party Links & Services
+LifeGrade may include features to track habits and challenges.  
+Users must not use LifeGrade to promote or facilitate gambling or wagering.  
+Violations may result in immediate suspension or termination of access.
 
-Our App may contain links to third-party websites or services. This Privacy Policy does not cover third-party data practices, and we encourage you to review their policies separately.
+---
 
-7\. Children’s Privacy
+## 11. User Responsibility
 
-Our App is not intended for children under 13\. We do not knowingly collect personal data from children. If you believe a child has provided us with information, please contact us for removal.
+Users are responsible for their actions on the platform and must not engage in illegal activity.  
+LifeGrade is not liable for misuse or content generated by users.
 
-8\. Changes to This Policy
+---
 
-We may update this Privacy Policy from time to time. We will notify users of significant changes via email or an in-app notice. Continued use of the App after updates constitutes acceptance of the new policy.
+## 12. Indemnification
 
-9\. Contact Us
+You agree to indemnify and hold harmless LifeGrade, its affiliates, employees, and partners (including Apple, Stripe, and Google Play) from any claims, liabilities, or expenses arising from:
+- Your use or misuse of the app  
+- Your violation of these Terms  
 
-If you have any questions about this Privacy Policy, you can contact us at:
+---
 
-Life Grade
-LifeGrade.App@gmail.com
+## 13. Changes to Terms
 
-https://LifeGrade.app
+We reserve the right to modify these Terms at any time.  
+Updated Terms will be posted at [https://LifeGrade.app/terms](https://LifeGrade.app/terms), and continued use of the app constitutes acceptance of those changes.
 
+---
+
+## 14. Governing Law
+
+These Terms are governed by the laws of the United States, without regard to conflict of law principles.
+
+---
+
+## 15. Cancellation & Refund Policy
+
+### Subscription Billing & Renewal  
+Premium access is billed at **$4.99/month** and renews automatically unless canceled.
+
+### Cancellation Policy
+- Users may cancel at any time via account settings.  
+- Cancellation prevents future billing but does not affect access for the remainder of the current billing period.
+
+### Refund Policy
+- All payments are **non-refundable**.  
+- Refunds may be issued only in cases of billing errors reported within 30 days.
+
+---
+
+## 16. Contact Us
+
+If you have any questions or concerns, you can contact us at:
+
+📧 contact@mylifestylechallenge.app  
+📧 lifegrade.app@gmail.com  
+🌐 [https://LifeGrade.app](https://LifeGrade.app)
