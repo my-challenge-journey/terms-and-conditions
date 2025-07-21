@@ -1,4 +1,4 @@
-# Terms and Conditions – LifeGrade
+# Privacy Policy – LifeGrade
 
 **Effective Date: March 30, 2025**
 
